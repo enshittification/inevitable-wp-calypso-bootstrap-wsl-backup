@@ -13,7 +13,7 @@ The first step is to install a Ubuntu distribution:
 
 1. Open a terminal, and run the following command (use `calypso` as username and password):
 ```
-wsl --install Ubuntu-22.04
+wsl --install --distribution Ubuntu-22.04
 ```
 2. Exit the virtual machine, and check it is set as the _default_ one (there should be an asterisk in front of its name):
 ```
